@@ -1,5 +1,5 @@
 token= NTEzODIzMTMwNDQ0MTAzNzEy.DtNoHA.XGPD8AbZOSVScQWdR8L9l7ARazk
-owner= 311603535466856458 
+owner=  532712973467123712
 prefix= 2
 game= 2play -✖ Crew.
 stayinchannel=true 
